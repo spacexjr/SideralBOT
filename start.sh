@@ -17,11 +17,11 @@ echo '              ✦  S I D E R A L B O T  ✦'
 echo '              Discord × Minecraft Bedrock'
 printf '\033[0m'
 
-echo '========================='
+echo '==================================='
 echo 'Node and NPM versions:'
 node -v
 npm -v
-echo '========================='
+echo '==================================='
 
 if [ ! -d "node_modules" ]; then
     echo "[SideralBOT] Dependencies not found."
