@@ -31,5 +31,6 @@ else
     echo "[SideralBOT] Dependencies already installed."
 fi
 
+echo '==================================='
 echo "[SideralBOT] Starting..."
 node index.js
