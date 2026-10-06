@@ -181,10 +181,10 @@ O código principal lê `DISCORD_TOKEN`, `CLIENT_ID` e `USUARIO_AUTORIZADO_ID` d
 Inicie o bot com:
 
 ```bash
-npm start
+./start.sh
 ```
 
-O comando `start` executa:
+O comando `start` do npm executa:
 
 ```bash
 node index.js
