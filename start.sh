@@ -18,8 +18,10 @@ echo '              Discord × Minecraft Bedrock'
 printf '\033[0m'
 
 echo '==================================='
-echo 'Node and NPM versions:'
+echo 'Node and NPM versions:'M
+echo 'Node:'
 node -v
+echo 'NPM:'
 npm -v
 echo '==================================='
 
